@@ -2,23 +2,42 @@
 
 The objective of this project is to determine a person's likelihood of having diabetes. Machine learning techniques are applied to the Pima Indian Diabetes dataset, and 93% prediction accuracy is achieved. This project involved data preparation, outlier treatment, feature engineering, data visualisation, scaling, several supervised machine learning algorithms, performance analysis, etc.
 
+
+
 Content:
 1-  Importing Pima Indians Diabetes Database
+
 2-  Exploratory Data Analysis
+
 3-  Data Preprocessing
+
 4-  Outlier Observation Analysis
+
 5-  Visualization of dataset
+
 6-  Feature Engineering
+
 7-  Machine learning for prediction
+
 8-  Logistic Regression
+
 9-  Model Performance Analysis
+
 10- Random Forest
+
 11- K Nearest Neighbor
+
 12- Support Vector Classifier
+
 13- Decision Tree Classifier
+
 14- Feature Importance in Decision Trees
+
 15- Plotting Accuracy Scores of all ML Algorithms
+
 16- Summary
+
+
 
 In order to predict whether a person is likely to be a diabetic person or not, machine learning algorithms were applied to the PIMA Indian Diabetes Dataset.
 
